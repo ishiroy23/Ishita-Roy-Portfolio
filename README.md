@@ -102,7 +102,7 @@
     <nav class="fixed w-full top-0 z-50 bg-white/80 backdrop-blur-md border-b border-slate-200">
         <div class="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
             <a href="#" class="font-display font-bold text-xl tracking-tight text-brand-dark">
-                Biswajeet<span class="text-brand-500">.</span>
+                Ishita Roy<span class="text-brand-500">.</span>
             </a>
             
             <div class="hidden md:flex gap-8 text-sm font-medium text-slate-600">
@@ -113,7 +113,7 @@
             </div>
 
             <div class="flex items-center gap-4">
-                <a href="mailto:biswajeetkumarp@gmail.com" class="hidden sm:flex bg-brand-dark text-white px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-slate-800 transition-colors">
+                <a href="mailto:ishitaroy86@gmail.com" class="hidden sm:flex bg-brand-dark text-white px-5 py-2.5 rounded-lg text-sm font-medium hover:bg-slate-800 transition-colors">
                     Let's Talk
                 </a>
                 <button id="menu-btn" class="md:hidden text-slate-600 hover:text-brand-500 focus:outline-none" aria-label="Toggle Mobile Menu">
@@ -147,17 +147,17 @@
                 </h1>
                 
                 <p class="text-lg md:text-xl text-slate-500 leading-relaxed max-w-2xl mb-10">
-                    I combine <span class="text-slate-800 font-semibold">marketing automation</span>, <span class="text-slate-800 font-semibold">performance SEO</span>, and <span class="text-slate-800 font-semibold">data visualization</span> to scale brands and drive measurable ROI. Based in Ahmedabad.
+                    I combine <span class="text-slate-800 font-semibold">marketing automation</span>, <span class="text-slate-800 font-semibold">performance SEO</span>, and <span class="text-slate-800 font-semibold">data visualization</span> to scale brands and drive measurable ROI. Based in Noida.
                 </p>
                 
                 <div class="flex flex-wrap gap-4">
                     <a href="#work" class="bg-brand-500 text-white px-7 py-3.5 rounded-lg font-medium hover:bg-teal-400 transition-transform hover:scale-105 flex items-center gap-2 shadow-lg shadow-brand-500/20">
                         View Portfolio <i class="fa-solid fa-arrow-down text-sm"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/biswajeet-marketing" target="_blank" rel="noopener noreferrer" class="bg-white text-slate-700 border border-slate-200 px-7 py-3.5 rounded-lg font-medium hover:bg-slate-50 hover:border-slate-300 transition-colors flex items-center gap-2 shadow-sm">
+                    <a href="www.linkedin.com/in/ishita-roy-08b3b7115" target="_blank" rel="noopener noreferrer" class="bg-white text-slate-700 border border-slate-200 px-7 py-3.5 rounded-lg font-medium hover:bg-slate-50 hover:border-slate-300 transition-colors flex items-center gap-2 shadow-sm">
                         <i class="fa-brands fa-linkedin text-[#0A66C2]"></i> LinkedIn
                     </a>
-                    <a href="https://drive.google.com/file/d/1xkI-SJkHXlzLqY5tJENBqVXJEDP6NQYG/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="bg-white text-slate-700 border border-slate-200 px-7 py-3.5 rounded-lg font-medium hover:bg-slate-50 hover:border-slate-300 transition-colors flex items-center gap-2 shadow-sm">
+                    <a href="https://drive.google.com/file/d/1lJ1HHCaoaQkGRGk4ru3JFeKimJQL7KIf/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="bg-white text-slate-700 border border-slate-200 px-7 py-3.5 rounded-lg font-medium hover:bg-slate-50 hover:border-slate-300 transition-colors flex items-center gap-2 shadow-sm">
                         <i class="fa-solid fa-file-pdf text-rose-500"></i> Resume
                     </a>
                 </div>
@@ -177,7 +177,7 @@
                     <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest bg-slate-50 px-3 py-1 rounded-full border border-slate-100">Base Location</span>
                 </div>
                 <div class="mt-4 md:mt-0">
-                    <h3 class="text-2xl md:text-3xl font-bold font-display text-brand-dark mb-1">Ahmedabad, India</h3>
+                    <h3 class="text-2xl md:text-3xl font-bold font-display text-brand-dark mb-1">Noida, Uttar Pradesh, India</h3>
                     <p class="text-sm text-slate-500 font-medium">Open to Remote / Relocation</p>
                 </div>
             </div>
@@ -189,8 +189,8 @@
                 <div class="relative z-10 flex justify-between items-start h-full flex-col">
                     <div class="px-3 py-1 bg-white/10 backdrop-blur-md border border-white/20 rounded-full text-xs font-bold text-white mb-4">Current Role</div>
                     <div>
-                        <h3 class="text-xl md:text-2xl font-bold font-display text-white mb-1">Digital Marketing Specialist</h3>
-                        <p class="text-sm text-brand-100 font-medium">@ Om Space Rocket & Exploration</p>
+                        <h3 class="text-xl md:text-2xl font-bold font-display text-white mb-1">Marketing Specialist</h3>
+                        <p class="text-sm text-brand-100 font-medium">@ Createbytes</p>
                     </div>
                 </div>
             </div>
@@ -211,7 +211,7 @@
                     <h3 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest bg-slate-50 px-3 py-1 rounded-full border border-slate-100">Technical Arsenal</h3>
                 </div>
                 <div class="flex flex-wrap gap-2.5">
-                    <span class="px-4 py-2 bg-slate-50 border border-slate-200 text-brand-dark rounded-xl text-sm font-semibold hover:border-brand-500 hover:text-brand-500 transition-colors shadow-sm cursor-default">Pabbly</span>
+                    <span class="px-4 py-2 bg-slate-50 border border-slate-200 text-brand-dark rounded-xl text-sm font-semibold hover:border-brand-500 hover:text-brand-500 transition-colors shadow-sm cursor-default">Basecamp</span>
                     <span class="px-4 py-2 bg-slate-50 border border-slate-200 text-brand-dark rounded-xl text-sm font-semibold hover:border-brand-500 hover:text-brand-500 transition-colors shadow-sm cursor-default">Google Analytics 4</span>
                     <span class="px-4 py-2 bg-slate-50 border border-slate-200 text-brand-dark rounded-xl text-sm font-semibold hover:border-brand-500 hover:text-brand-500 transition-colors shadow-sm cursor-default">Power BI</span>
                     <span class="px-4 py-2 bg-slate-50 border border-slate-200 text-brand-dark rounded-xl text-sm font-semibold hover:border-brand-500 hover:text-brand-500 transition-colors shadow-sm cursor-default">Zoho CRM</span>
@@ -615,23 +615,23 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div class="bg-white p-8 rounded-2xl border border-slate-200 shadow-sm card-hover" data-aos="fade-up">
                     <div class="flex justify-between items-start mb-4">
-                        <h3 class="text-xl font-bold font-display text-brand-dark">MBA in International Business</h3>
-                        <span class="px-3 py-1 bg-brand-50 text-brand-700 rounded-md text-xs font-semibold shrink-0">2024 - Present</span>
+                        <h3 class="text-xl font-bold font-display text-brand-dark">Executive MBA in Product Management</h3>
+                        <span class="px-3 py-1 bg-brand-50 text-brand-700 rounded-md text-xs font-semibold shrink-0">2025-2026</span>
                     </div>
-                    <p class="text-slate-600 font-medium">Lovely Professional University</p>
+                    <p class="text-slate-600 font-medium">Udemy</p>
                     <p class="text-slate-500 text-sm mt-2 flex items-center gap-2">
-                        <i class="fa-solid fa-building-columns text-slate-400"></i> Mittal School of Business (2026 Batch)
+                        <i class="fa-solid fa-building-columns text-slate-400"></i> Online Education(2025-2026 Batch)
                     </p>
                 </div>
                 
                 <div class="bg-white p-8 rounded-2xl border border-slate-200 shadow-sm card-hover" data-aos="fade-up" data-aos-delay="100">
                     <div class="flex justify-between items-start mb-4">
-                        <h3 class="text-xl font-bold font-display text-brand-dark">B.Sc. Zoology Honors</h3>
-                        <span class="px-3 py-1 bg-slate-100 text-slate-600 rounded-md text-xs font-semibold shrink-0">2020 - 2023</span>
+                        <h3 class="text-xl font-bold font-display text-brand-dark">B.Tech In Computer Science Engineering</h3>
+                        <span class="px-3 py-1 bg-slate-100 text-slate-600 rounded-md text-xs font-semibold shrink-0">2013-2017</span>
                     </div>
-                    <p class="text-slate-600 font-medium">Jupiter Degree College</p>
+                    <p class="text-slate-600 font-medium">University Of Engineering & Management</p>
                     <div class="text-slate-500 text-sm mt-2 flex justify-between items-center">
-                        <span class="flex items-center gap-2"><i class="fa-solid fa-location-dot text-slate-400"></i> Bhubaneswar</span>
+                        <span class="flex items-center gap-2"><i class="fa-solid fa-location-dot text-slate-400"></i> Jaipur</span>
                         <span class="font-bold text-brand-600 bg-brand-50 border border-brand-100 px-2 py-1 rounded">CGPA: 8.99</span>
                     </div>
                 </div>
@@ -649,8 +649,8 @@
                         <i class="fa-solid fa-chart-line text-lg"></i>
                     </div>
                     <div>
-                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">Google Analytics 4 (2025)</h4>
-                        <p class="text-xs text-slate-500 mt-1">Udemy</p>
+                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">Product Marketing</h4>
+                        <p class="text-xs text-slate-500 mt-1">Simplilearn</p>
                     </div>
                 </div>
                 
@@ -659,8 +659,8 @@
                         <i class="fa-brands fa-google text-lg"></i>
                     </div>
                     <div>
-                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">Digital Marketing & E-com</h4>
-                        <p class="text-xs text-slate-500 mt-1">Coursera</p>
+                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">Technical SEO</h4>
+                        <p class="text-xs text-slate-500 mt-1">Semrush</p>
                     </div>
                 </div>
                 
@@ -669,8 +669,8 @@
                         <i class="fa-brands fa-google text-lg"></i>
                     </div>
                     <div>
-                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">Data Analytics</h4>
-                        <p class="text-xs text-slate-500 mt-1">Coursera</p>
+                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">GA4 For SEO</h4>
+                        <p class="text-xs text-slate-500 mt-1">Semrush</p>
                     </div>
                 </div>
                 
@@ -679,8 +679,8 @@
                         <i class="fa-brands fa-google text-lg"></i>
                     </div>
                     <div>
-                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">Google AI Essentials</h4>
-                        <p class="text-xs text-slate-500 mt-1">Coursera</p>
+                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">PPC Fundamentals</h4>
+                        <p class="text-xs text-slate-500 mt-1">Semrush</p>
                     </div>
                 </div>
                 
@@ -689,7 +689,7 @@
                         <i class="fa-solid fa-bullhorn text-lg"></i>
                     </div>
                     <div>
-                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">PPC Fundamentals</h4>
+                        <h4 class="text-sm font-bold font-display text-brand-dark leading-tight">How To Increase Sales on Shopify with Content Marketing</h4>
                         <p class="text-xs text-slate-500 mt-1">Semrush</p>
                     </div>
                 </div>
@@ -713,15 +713,15 @@
             <h2 class="text-3xl font-display font-bold text-white mb-6">Let's build something exceptional.</h2>
             <p class="mb-10 text-slate-400 max-w-lg text-sm">Looking to scale your brand's digital presence? Let's talk about automation, data, and growth.</p>
             <div class="flex gap-4 mb-12">
-                <a href="mailto:biswajeetkumarp@gmail.com" class="bg-brand-500 text-white px-8 py-3.5 rounded-lg font-medium hover:bg-teal-400 transition-colors shadow-lg shadow-brand-500/20 flex items-center gap-2">
+                <a href="mailto:ishitaroy86@gmail.com" class="bg-brand-500 text-white px-8 py-3.5 rounded-lg font-medium hover:bg-teal-400 transition-colors shadow-lg shadow-brand-500/20 flex items-center gap-2">
                     <i class="fa-solid fa-envelope"></i> Email Me
                 </a>
-                <a href="https://www.linkedin.com/in/biswajeet-marketing" target="_blank" rel="noopener noreferrer" class="bg-slate-800 text-white px-8 py-3.5 rounded-lg font-medium hover:bg-slate-700 transition-colors flex items-center gap-2">
+                <a href="www.linkedin.com/in/ishita-roy-08b3b7115" target="_blank" rel="noopener noreferrer" class="bg-slate-800 text-white px-8 py-3.5 rounded-lg font-medium hover:bg-slate-700 transition-colors flex items-center gap-2">
                     <i class="fa-brands fa-linkedin-in"></i> LinkedIn
                 </a>
             </div>
             <div class="w-full max-w-sm h-px bg-slate-800 mb-8"></div>
-            <p class="text-sm">&copy; 2026 Biswajeet Parida. Designed with intent.</p>
+            <p class="text-sm">&copy; 2026 Ishita Roy. Designed with intent.</p>
         </div>
     </footer>
 
