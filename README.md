@@ -466,7 +466,7 @@
                     <p class="text-slate-500 text-sm leading-relaxed">Transformed raw education vertical data into interactive visuals, identifying key audience segments and geographical demand trends.</p>
                 </a>
 
-                <a href="https://www.linkedin.com/posts/biswajeet-marketing_marketingautomation-pabblyconnect-zohocrm-activity-7381000848589451264-OZ5V" target="_blank" rel="noopener noreferrer" class="project-card automation block bg-white rounded-2xl p-6 border border-slate-200 card-hover group" data-aos="fade-up" data-aos-delay="100">
+        
                     <div class="h-48 w-full bg-slate-100 rounded-xl mb-6 overflow-hidden relative border border-slate-100">
                         <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" alt="Automation" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                     </div>
@@ -478,7 +478,7 @@
                     <p class="text-slate-500 text-sm leading-relaxed">Streamlined lead management and sales processes using multi-step automated workflows to eliminate manual data entry.</p>
                 </a>
 
-                <a href="https://www.linkedin.com/posts/biswajeet-marketing_digitalmarketing-googlemybusiness-localseo-activity-7314855110101123073-ywIx" target="_blank" rel="noopener noreferrer" class="project-card seo block bg-white rounded-2xl p-6 border border-slate-200 card-hover group" data-aos="fade-up" data-aos-delay="200">
+            
                     <div class="h-48 w-full bg-slate-100 rounded-xl mb-6 overflow-hidden relative border border-slate-100">
                         <img src="https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?auto=format&fit=crop&w=800&q=80" alt="SEO" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                     </div>
@@ -490,7 +490,6 @@
                     <p class="text-slate-500 text-sm leading-relaxed">Optimized GMB profiles and implemented local search strategies to dramatically improve client visibility and foot traffic.</p>
                 </a>
 
-                <a href="https://www.linkedin.com/company/zeepty/posts/?feedView=all" target="_blank" rel="noopener noreferrer" class="project-card content block bg-white rounded-2xl p-6 border border-slate-200 card-hover group" data-aos="fade-up">
                     <div class="h-48 w-full bg-slate-100 rounded-xl mb-6 overflow-hidden relative border border-slate-100">
                         <img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=800&q=80" alt="Social Media" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                     </div>
@@ -501,7 +500,7 @@
                     <p class="text-slate-500 text-sm leading-relaxed">Achieved 40% increase in brand mentions and generated 100+ qualified leads through targeted organic campaigns.</p>
                 </a>
 
-                <a href="https://peerfives.com/gratitude-journal/" target="_blank" rel="noopener noreferrer" class="project-card content block bg-white rounded-2xl p-6 border border-slate-200 card-hover group" data-aos="fade-up" data-aos-delay="100">
+            
                     <div class="h-48 w-full bg-slate-100 rounded-xl mb-6 overflow-hidden relative border border-slate-100">
                         <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=800&q=80" alt="Content" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                     </div>
@@ -512,7 +511,7 @@
                     <p class="text-slate-500 text-sm leading-relaxed">Developed and executed a blog strategy focused on user engagement, leading to a 25% increase in site retention.</p>
                 </a>
 
-                <a href="https://biswajeet-stack.github.io/Pehchan-/" target="_blank" rel="noopener noreferrer" class="project-card seo content block bg-white rounded-2xl p-6 border border-slate-200 card-hover group" data-aos="fade-up" data-aos-delay="200">
+        
                     <div class="h-48 w-full bg-slate-100 rounded-xl mb-6 overflow-hidden relative border border-slate-100">
                         <img src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=800&q=80" alt="Branding" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                     </div>
@@ -542,14 +541,18 @@
                     </div>
                     <div class="group bg-white p-6 rounded-2xl border border-slate-200 shadow-sm card-hover">
                         <div class="flex flex-col sm:flex-row sm:items-center justify-between mb-2">
-                            <h3 class="text-xl font-bold font-display text-brand-dark group-hover:text-brand-500 transition-colors">Digital Marketing Specialist</h3>
-                            <span class="text-xs text-brand-500 font-semibold bg-brand-50 px-3 py-1 rounded-full mt-2 sm:mt-0">Sep 2025 - Present</span>
+                            <h3 class="text-xl font-bold font-display text-brand-dark group-hover:text-brand-500 transition-colors">Marketing Specialist</h3>
+                            <span class="text-xs text-brand-500 font-semibold bg-brand-50 px-3 py-1 rounded-full mt-2 sm:mt-0">2024 - Present</span>
                         </div>
-                        <p class="text-slate-700 font-medium mb-4">Om Space Rocket and Exploration</p>
+                        <p class="text-slate-700 font-medium mb-4">Createbytes</p>
                         <ul class="space-y-2 text-slate-500 text-sm leading-relaxed">
                             <li>• Designed and deployed 20+ automated workflows using Pabbly and AiSensy (80% deployment rate).</li>
-                            <li>• Implemented Razorpay Webhook & Zoho CRM flow for real-time lead generation.</li>
-                            <li>• Developed Power BI dashboards for segmented reporting (state-wise, age-based).</li>
+                            <li>• Worked on website from scratch, implemented SEO practices, & AI, Client handling.</li>
+                            <li>• Monitor daily performance metrics with SEO tools such as Google Analytics, Google
+Data studio and Search Console.</li>
+ <li>• R&D for the products and brands, strategy building, and Team handling.
+</li>
+ <li>• Meta Ads, and Automation. GEN AI, campaign set-up, budget allocation.</li>
                         </ul>
                     </div>
                 </div>
@@ -560,13 +563,18 @@
                     </div>
                     <div class="group bg-white p-6 rounded-2xl border border-slate-200 shadow-sm card-hover">
                         <div class="flex flex-col sm:flex-row sm:items-center justify-between mb-2">
-                            <h3 class="text-xl font-bold font-display text-brand-dark group-hover:text-purple-600 transition-colors">Digital Marketing Intern</h3>
-                            <span class="text-xs text-slate-500 font-semibold bg-slate-100 px-3 py-1 rounded-full mt-2 sm:mt-0">Jun 2025 - Sep 2025</span>
+                            <h3 class="text-xl font-bold font-display text-brand-dark group-hover:text-purple-600 transition-colors">Performance Marketing Executive</h3>
+                            <span class="text-xs text-slate-500 font-semibold bg-slate-100 px-3 py-1 rounded-full mt-2 sm:mt-0">2021 - Feb 2024</span>
                         </div>
-                        <p class="text-slate-700 font-medium mb-4">SOLVATIVE</p>
+                        <p class="text-slate-700 font-medium mb-4">Collegeduniya Web Pvt Ltd</p>
                         <ul class="space-y-2 text-slate-500 text-sm leading-relaxed">
-                            <li>• Managed content for LinkedIn, Instagram & Bluesky; updated websites using Storyblok CMS.</li>
-                            <li>• Created automated cold emailing workflows using n8n for lead generation.</li>
+                            <li>• Planned, executed, and optimised performance marketing campaigns across Meta Ads and Google Ads to drive qualified leads, conversions, and business growth.</li>
+                            <li>• Conducted competitor research to stay aware of the latest trends and identify new
+opportunities. Implemented affiliate links into e-commerce websites to generate sales.</li>
+ <li>• Developed optimization tactics to help the company's website rank higher in search
+engine results.</li>
+ <li>• Monitored campaign performance using CTR, CPC, CPL, CPA, and ROAS; conducted A/B testing and optimised audience targeting, creatives, and budget allocation.</li>
+  <li>• Analysed campaign data using GA4 and advertising dashboards, prepared performance reports, and implemented remarketing and conversion optimisation strategies to improve ROI.</li>
                         </ul>
                     </div>
                 </div>
@@ -577,13 +585,17 @@
                     </div>
                     <div class="group bg-white p-6 rounded-2xl border border-slate-200 shadow-sm card-hover">
                         <div class="flex flex-col sm:flex-row sm:items-center justify-between mb-2">
-                            <h3 class="text-xl font-bold font-display text-brand-dark group-hover:text-blue-600 transition-colors">Digital Marketing Intern</h3>
-                            <span class="text-xs text-slate-500 font-semibold bg-slate-100 px-3 py-1 rounded-full mt-2 sm:mt-0">Mar 2025 - Jun 2025</span>
+                            <h3 class="text-xl font-bold font-display text-brand-dark group-hover:text-blue-600 transition-colors">SEO Team Lead</h3>
+                            <span class="text-xs text-slate-500 font-semibold bg-slate-100 px-3 py-1 rounded-full mt-2 sm:mt-0">2019 - 2021</span>
                         </div>
-                        <p class="text-slate-700 font-medium mb-4">Zeepty</p>
+                        <p class="text-slate-700 font-medium mb-4">Media Mosaic Pvt Ltd</p>
                         <ul class="space-y-2 text-slate-500 text-sm leading-relaxed">
-                            <li>• Boosted social interactions by 30% and organic traffic by 12%.</li>
-                            <li>• Generated 15+ qualified leads/month; authored high-engagement blogs for Gen Z.</li>
+                            <li>• Create strategy and manage the team, ensuring to fulfill the company’s expectations and
+ROI.</li>
+                            <li>• Generated 15+ qualified leads/month; authored high-engagement blogs.</li>
+                              <li>• Help to execute on-site and off-site SEO strategies (including link building).</li>
+                               <li>• Provide SEO analysis and recommendations in coordination with elements and
+structure of websites and webpage.</li>
                         </ul>
                     </div>
                 </div>
@@ -594,14 +606,14 @@
                     </div>
                     <div class="group bg-white p-6 rounded-2xl border border-slate-200 shadow-sm card-hover">
                         <div class="flex flex-col sm:flex-row sm:items-center justify-between mb-2">
-                            <h3 class="text-xl font-bold font-display text-brand-dark">Early Roles</h3>
-                            <span class="text-xs text-slate-500 font-semibold bg-slate-100 px-3 py-1 rounded-full mt-2 sm:mt-0">2023 - 2025</span>
+                            <h3 class="text-xl font-bold font-display text-brand-dark">SEO Executive</h3>
+                            <span class="text-xs text-slate-500 font-semibold bg-slate-100 px-3 py-1 rounded-full mt-2 sm:mt-0">2018 - 2019</span>
                         </div>
-                        <p class="text-slate-700 font-medium mb-4">Olcademy, Stellar8Labs & VR Academy</p>
+                        <p class="text-slate-700 font-medium mb-4">Seoczar IT Services Pvt.Ltd</p>
                         <ul class="space-y-2 text-slate-500 text-sm leading-relaxed">
-                            <li>• <strong class="text-gray-300">Olcademy:</strong> SEO optimization (Score 70+); developed Gen Z blog strategies.</li>
-                            <li>• <strong class="text-gray-300">Stellar8Labs:</strong> Fixed 15+ technical SEO issues; grew LinkedIn followers by 15%.</li>
-                            <li>• <strong class="text-gray-300">VR Academy:</strong> High School Teacher achieving 100% pass rate.</li>
+                            <li>• SEO optimization (Score 70+); developed Gen Z blog strategies.</li>
+                            <li>• Fixed 15+ technical SEO issues; SEO On-page, Off-page.</li>
+                            <li>• Social media marketing(SMM), Article submission, blog posting, video submission, social bookmarking.</li>
                         </ul>
                     </div>
                 </div>
@@ -632,7 +644,7 @@
                     <p class="text-slate-600 font-medium">University Of Engineering & Management</p>
                     <div class="text-slate-500 text-sm mt-2 flex justify-between items-center">
                         <span class="flex items-center gap-2"><i class="fa-solid fa-location-dot text-slate-400"></i> Jaipur</span>
-                        <span class="font-bold text-brand-600 bg-brand-50 border border-brand-100 px-2 py-1 rounded">CGPA: 8.99</span>
+                        <span class="font-bold text-brand-600 bg-brand-50 border border-brand-100 px-2 py-1 rounded">CGPA: 8</span>
                     </div>
                 </div>
             </div>
