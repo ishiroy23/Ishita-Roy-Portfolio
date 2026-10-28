@@ -244,14 +244,14 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
-                <!-- JULY 2026 CASE STUDY (UPDATED TO REMOVE GAPS) -->
+                <!-- September 2026 CASE STUDY (UPDATED TO REMOVE GAPS) -->
                 <div class="project-card casestudy content seo col-span-1 md:col-span-2 lg:col-span-3 bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm card-hover mb-6" data-aos="fade-up">
                     <div class="flex flex-col lg:flex-row gap-8 lg:gap-10 items-stretch">
                         <!-- Left Content -->
                         <div class="lg:w-1/3 flex flex-col justify-between">
                             <div>
                                 <div class="inline-block px-3 py-1 bg-teal-50 text-teal-900 border border-teal-200 rounded-full text-xs font-semibold uppercase tracking-wider mb-4">
-                                    July 2026 Sprint
+                                    September 2026 Sprint
                                 </div>
                                 <h3 class="text-2xl md:text-3xl font-display font-bold text-brand-dark mb-3">202K+ Organic Ecosystem Growth</h3>
                                 <p class="text-slate-600 leading-relaxed mb-6 text-sm">
@@ -349,13 +349,13 @@
                     </div>
                 </div>
 
-                <!-- June 2026 Case Study -->
+                <!-- August 2026 Case Study -->
                 <div class="project-card casestudy content seo col-span-1 md:col-span-2 lg:col-span-3 bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm card-hover mb-6" data-aos="fade-up">
                     <div class="flex flex-col lg:flex-row gap-8 lg:gap-10 items-stretch">
                         <div class="lg:w-1/3 flex flex-col justify-between">
                             <div>
                                 <div class="inline-block px-3 py-1 bg-brand-50 text-brand-900 border border-brand-100 rounded-full text-xs font-semibold uppercase tracking-wider mb-4">
-                                    June 2026 Sprint
+                                   August 2026 Sprint
                                 </div>
                                 <h3 class="text-2xl md:text-3xl font-display font-bold text-brand-dark mb-3">Omnichannel Viral Growth</h3>
                                 <p class="text-slate-600 leading-relaxed mb-6 text-sm">
@@ -408,16 +408,16 @@
                     </div>
                 </div>
 
-                <!-- May 2026 Case Study -->
+                <!-- July 2026 Case Study -->
                 <div class="project-card casestudy content seo col-span-1 md:col-span-2 lg:col-span-3 bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm card-hover mb-6" data-aos="fade-up">
                     <div class="flex flex-col lg:flex-row gap-8 lg:gap-10 items-stretch">
                         <div class="lg:w-1/3 flex flex-col justify-center">
                             <div class="inline-block px-3 py-1 bg-slate-100 text-slate-700 border border-slate-200 rounded-full text-xs font-semibold uppercase tracking-wider mb-4 w-max">
-                                May 2026 Performance
+                                July 2026 Performance
                             </div>
                             <h3 class="text-2xl md:text-3xl font-display font-bold text-brand-dark mb-3">460K+ Ecosystem Reach</h3>
                             <p class="text-slate-600 text-sm leading-relaxed">
-                                Spearheaded a 30-day multi-platform content sprint for OmSpace Rocket & Exploration. By synchronizing organic social strategies across platforms with technical SEO, we achieved exponential brand visibility, accelerated community growth, and a 54% surge in website traffic.
+                                Spearheaded a 30-day multi-platform content sprint for Createbytes. By synchronizing organic social strategies across platforms with technical SEO, we achieved exponential brand visibility, accelerated community growth, and a 54% surge in website traffic.
                             </p>
                         </div>
                         
