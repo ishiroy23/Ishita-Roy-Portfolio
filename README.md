@@ -452,19 +452,6 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Regular Projects -->
-                <a href="https://www.linkedin.com/posts/biswajeet-marketing_datavisualization-powerbi-businessintelligence-activity-7406980680095744000-P3KG" target="_blank" rel="noopener noreferrer" class="project-card automation block bg-white rounded-2xl p-6 border border-slate-200 card-hover group" data-aos="fade-up">
-                    <div class="h-48 w-full bg-slate-100 rounded-xl mb-6 overflow-hidden relative border border-slate-100">
-                        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80" alt="Power BI" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
-                    </div>
-                    <div class="flex gap-2 mb-3">
-                        <span class="px-2 py-1 bg-brand-50 text-brand-700 rounded text-[10px] font-bold uppercase tracking-wide">Power BI</span>
-                        <span class="px-2 py-1 bg-slate-100 text-slate-600 rounded text-[10px] font-bold uppercase tracking-wide">Data</span>
-                    </div>
-    <section id="experience" class="py-24 bg-slate-50 border-t border-slate-200">
-        <div class="max-w-4xl mx-auto px-6">
-            <div class="mb-16 text-center md:text-left" data-aos="fade-up">
                 <h2 class="text-3xl md:text-4xl font-display font-bold text-brand-dark mb-4">Work Experience</h2>
                 <p class="text-slate-500 text-lg">My trajectory in digital strategy and execution.</p>
             </div>
